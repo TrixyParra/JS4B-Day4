@@ -1,0 +1,46 @@
+#player-one, #player-two {
+    border: 5px solid grey;
+    width: 300px;
+    margin: 20px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: auto;
+    width: 100%;
+}
+
+.card-holder {
+    border: 5px solid grey;
+    width: 200px;
+    height: 280px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.points {
+    font-size: 30px;
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+    padding: 10px;
+  
+}
+
+.suit {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 60px;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.red {
+    color: red;
+} 
